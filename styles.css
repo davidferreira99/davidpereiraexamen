@@ -1,0 +1,23 @@
+img{
+    height: 400px;
+    width: 100%;
+    
+}
+
+.navbar-nav{
+    margin-left: 80%;
+   
+}
+
+.container-fluid {
+    background-color: black;
+    
+}
+
+.card{
+    float: right;
+}
+
+.formulario{
+    float: left;
+}
